@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text } from 'react-native';
 import MainHeader from './Components/MainHeader';
-import Categories from './Components/Categories';
+import Categories from './Components/MainCategories';
 import SearchBar from './Components/SearchBar';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import OngoingTask from './Components/OngoingTask';
