@@ -29,5 +29,15 @@ Make sure to place your profile image (profile.png) in the ../assets/ directory 
 
 OngoingTask Component
 Features
-Displays a list of ongoing tasks in a vertical scrollable view.
-Each task is displayed in a card with a task name.
+-Displays a list of ongoing tasks in a vertical scrollable view.
+-Each task is displayed in a card with a task name.
+
+Customization
+You can customize the styles by modifying the styles object in the component code. Change colors, sizes, margins, and other properties to fit your app's design.
+
+SearchBar Component
+Features
+-Displays a search bar that can be used to navigate through tasks
+
+Customization
+You can customize the styles by modifying the styles object in the component code. Change colors, sizes, margins, and other properties to fit your app's design.
